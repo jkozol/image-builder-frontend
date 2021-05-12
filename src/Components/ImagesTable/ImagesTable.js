@@ -161,7 +161,7 @@ class ImagesTable extends Component {
                                         onSetPage={ this.onSetPage }
                                         onPerPageSelect={ this.onPerPageSelect }
                                         widgetId="compose-pagination"
-                                        data-testId="images-pagination"
+                                        data-testid="images-pagination"
                                         isCompact />
                                 </ToolbarItem>
                             </ToolbarContent>
