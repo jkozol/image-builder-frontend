@@ -4,6 +4,8 @@
   "private": false,
   "dependencies": {
     "@babel/runtime": "7.14.0",
+    "@data-driven-forms/pf4-component-mapper": "^3.6.4",
+    "@data-driven-forms/react-form-renderer": "^3.6.4",
     "@patternfly/patternfly": "4.103.6",
     "@patternfly/react-core": "4.121.1",
     "@patternfly/react-table": "4.27.7",
@@ -44,8 +46,8 @@
     "@babel/preset-flow": "7.8.3",
     "@babel/preset-react": "7.8.3",
     "@redhat-cloud-services/frontend-components-config": "4.0.28",
-    "@testing-library/react": "11.0.4",
     "@testing-library/jest-dom": "5.10.1",
+    "@testing-library/react": "11.0.4",
     "@testing-library/user-event": "12.2.2",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "10.0.3",
